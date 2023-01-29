@@ -1,0 +1,122 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("L3G3ND GAME DESTROYER V1", "Synapse")
+    -- Build a boat
+    local Main = Window:NewTab("Build a boat")
+    local MainSection = Main:NewSection("Build a boat")
+    
+   
+       MainSection:NewButton("Gui", "BABFT GUI", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/yLegendzz/Scripts/main/LoaderAll'))()
+    end)
+ MainSection:NewButton("Gui", "BABFT GUI", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+    end)
+ MainSection:NewButton("Gui", "BABFT GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/Script.lua"))()
+    end)
+    
+    
+        -- BloxFruit
+    local Main = Window:NewTab("Bloxfruit")
+    local MainSection = Main:NewSection("Boxfruit")
+    
+   
+       MainSection:NewButton("Gui", "Bloxfruit GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/Loader", true))()
+    end)
+ MainSection:NewButton("Gui", "Bloxfruit GUI", function()
+        --https://discord.gg/dkDu7zAmZA--loadstring(game:HttpGet('https://raw.githubusercontent.com/xDestinyx/RipperHub/main/Loader.lua'))()
+    end)
+ MainSection:NewButton("Gui", "Bloxfruit GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/OldBf"))()
+    end)
+    
+    
+            -- Da hood
+    local Main = Window:NewTab("Da hood")
+    local MainSection = Main:NewSection("Da hood")
+    
+   
+       MainSection:NewButton("Gui", "Da hood GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitzoon/Rogue-Hub/main/Main.lua", true))()
+    end)
+ MainSection:NewButton("Gui", "Da hood GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Impulseonyoutube/VENX/main/subtoimpulseyea.lua"))()
+    end)
+ MainSection:NewButton("Gui", "Da hood GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteisveryepic/crimskid/main/da%20hood"))()
+    end)
+    
+    
+                -- Pet Simulator
+    local Main = Window:NewTab("Pet Simulator")
+    local MainSection = Main:NewSection("Pet Simulator")
+    
+   
+       MainSection:NewButton("Gui", "psx GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/cipex-rbx/cipex/main/loader.lua"))([==[
+Toggle Keybind: Right Shift
+Created by: neex#6456, Pawel12d#0272, daruno#6587
+]==])
+    end)
+ MainSection:NewButton("Gui", "psx GUI", function()
+        loadstring(game:HttpGet("https://rawscripts.net/raw/CATS-or-Pet-Simulator-X!-Pasta-v2-6841"))()
+    end)
+ MainSection:NewButton("Gui", "psx GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ExtremeAntonis/KeySystemUI/main/KeySystemUI-Obfuscated.lua"))()
+    end)
+    
+    
+                -- Anime fighting
+    local Main = Window:NewTab("Anime fighting")
+    local MainSection = Main:NewSection("Anime fighting")
+    
+   
+       MainSection:NewButton("Gui", "anime fighting GUI", function()
+        _G.LoadPlace = false --set to true if you want it to work properly.
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Levi4Chan/Rblx-Scripts/main/AFS-New-Ui.lua")()
+    end)
+ MainSection:NewButton("Gui", "Da hood GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Levi4Chan/Rblx-Scripts/main/AFS-Inf-Wheel-Spin.lua", true))()
+    end)
+ MainSection:NewButton("Gui", "Da hood GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Woutt/FludexHub/main/login.lua"))()
+    end)
+    
+    
+                -- Brookhaven
+    local Main = Window:NewTab("Brookhaven")
+    local MainSection = Main:NewSection("Brookhaven")
+    
+   
+       MainSection:NewButton("Gui", "Brook GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Corrupt2625/pjv/main/000000018.lua"))()
+    end)
+ MainSection:NewButton("Gui", "Brook GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+    end)
+ MainSection:NewButton("Gui", "Brook GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/BROOKHAVEN-GUI-/main/METAB", true))()
+    end)
+    
+    
+                    -- UNIVERSAL
+    local Main = Window:NewTab("UNIVERSAL")
+    local MainSection = Main:NewSection("UNIVERSAL")
+    
+   
+       MainSection:NewButton("iPIG HUB", "Brook GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/iPigTW/PigHub/main/pighub.lua",true))()
+    end)
+ MainSection:NewButton("Chat bypass", "Brook GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser",true))()
+    end)
+ MainSection:NewButton("UNI HUB", "Brook GUI", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script'))()
+    end)
+ MainSection:NewButton("INFINITE YIELD", "Brook GUI", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+    end)
+ MainSection:NewButton("Cook burger GUI", "Brook GUI", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOBARMYSCRIPTER/NOOBARMYSCRIPTER/main/cook%20burgers", true))() 
+    end)
